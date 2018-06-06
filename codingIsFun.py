@@ -1,5 +1,5 @@
 # This is a Quick Test
-# Shared var names: name = Persons Name, age = persons age
+# Shared var names: name = persons name, age = persons age
 
 
 # Tom
