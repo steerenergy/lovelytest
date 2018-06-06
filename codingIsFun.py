@@ -1,5 +1,5 @@
 # This is a Quick Test
-# Shared Vars: name = Persons Name, age = persons age
+# Shared var names: name = Persons Name, age = persons age
 
 
 # Tom
@@ -11,6 +11,7 @@
 # Nick
 # Create function which gets the name of the persons favourite football team and tells them what you think of them
 # When you tell them the opinion of the football team, address the person using the name they gave in the first part
+# (it's polite y'know)
 
 
 
