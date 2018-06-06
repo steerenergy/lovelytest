@@ -12,7 +12,7 @@
 # Create function which gets the name of the persons favourite football team and tells them what you think of them
 # When you tell them the opinion of the football team, address the person using the name they gave in the first part
 # (it's polite y'know)
-
+foot_name = input("Please type in the name of your favourite football team")
 
 
 
