@@ -6,11 +6,11 @@
 # Create function that asks for users name and DOB year and prints name and age
 # User Input
 name = input("What is your name? ")
-# Date is an integer
+# Get date is an integer
 dob = int(input("Enter the Year you were Born? (Honesty IS essential ;)) "))
 age = 2018-dob
 # Print Information
-print("Hello {}, your are {} years old.".format(name, age))
+print("Hello {}, your are approx {} years old.".format(name, age))
 
 
 
