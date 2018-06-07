@@ -3,8 +3,14 @@
 
 
 # Tom
-# Create function that asks for users name and DOB year and prints age
+# Create function that asks for users name and DOB year and prints name and age
+# User Input
+name = input("What is your name? ")
+# Date is an integer
+dob = int(input("Enter the Year you were Born? (Honesty IS essential ;)) "))
+age = 2018-dob
 
+print("Hello {}, your are {} years old.".format(name, age))
 
 
 
